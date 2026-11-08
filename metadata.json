@@ -1,0 +1,6 @@
+{
+  "name": "Tutorial Post Markdown Generator",
+  "description": "Interactive form to build, preview, and download structured tutorial markdown files with frontmatter, steps, and prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
